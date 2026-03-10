@@ -1,4 +1,4 @@
-# 🏠 Gharpayy CRM Lead Management System
+#  Gharpayy CRM Lead Management System
 
 A minimum viable product (Lead Management System) built for **Gharpayy**, a startup providing affordable PG accommodations for students and working professionals in Bangalore.
 
@@ -6,13 +6,13 @@ Eliminates lead leakage, automate agent assignment, and give the sales team a si
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 [Gharpayy mvp](https://gharpayy-aditya-mvp.netlify.app/)
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Dashboard** — KPI cards, pipeline bar chart, agent workload tracker, recent leads table
 - **Kanban Pipeline Board** — Drag-and-drop across 8 stages: New Lead → Contacted → Requirement Collected → Property Suggested → Visit Scheduled → Visit Completed → Booked → Lost
@@ -27,7 +27,7 @@ Eliminates lead leakage, automate agent assignment, and give the sales team a si
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -40,7 +40,7 @@ Eliminates lead leakage, automate agent assignment, and give the sales team a si
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -49,7 +49,7 @@ Eliminates lead leakage, automate agent assignment, and give the sales team a si
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/gharpayy-crm.git
+git clone https://github.com/adimadhwani/gharpayy.git
 cd gharpayy-crm
 
 # Install dependencies
@@ -64,7 +64,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 gharpayy-crm/
 ├── src/
@@ -77,7 +77,7 @@ gharpayy-crm/
 
 ---
 
-## 🗃️ Data Models
+##  Data Models
 
 ### Lead
 ```js
@@ -112,7 +112,7 @@ gharpayy-crm/
 
 ---
 
-## 🔮 Roadmap (Production)
+##  Roadmap (Production)
 
 - [ ] Supabase real-time database integration
 - [ ] Authentication with role-based access (Agent / Manager)
@@ -124,9 +124,9 @@ gharpayy-crm/
 
 ---
 
-## 🙋 Built By
+##  Built By
 
-Made with ❤️ for Gharpayy by Aditya Madhwani  
+Made with Love for Gharpayy by Aditya Madhwani  
 📧 madhwaniaditya09@gmail.com  
 🔗 [https://www.linkedin.com/in/aditya-madhwani/](https://www.linkedin.com/in/aditya-madhwani-8a1061339/)
 
