@@ -1,14 +1,14 @@
-# 🏠 Gharpayy CRM — Lead Management System
+# 🏠 Gharpayy CRM Lead Management System
 
-A full-stack Lead Management System built for **Gharpayy**, a startup providing affordable PG accommodations for students and working professionals in Bangalore.
+A minimum viable product (Lead Management System) built for **Gharpayy**, a startup providing affordable PG accommodations for students and working professionals in Bangalore.
 
-Built as an MVP to eliminate lead leakage, automate agent assignment, and give the sales team a single unified pipeline to manage every inquiry from first contact to booking.
+Eliminates lead leakage, automate agent assignment, and give the sales team a single unified pipeline to manage every inquiry from first contact to booking.
 
 ---
 
 ## 🚀 Live Demo
 
-> Coming soon / [Add your Vercel link here]
+[Gharpayy mvp](https://gharpayy-aditya-mvp.netlify.app/)
 
 ---
 
